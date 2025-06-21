@@ -43,7 +43,7 @@ export default function RootLayout({
                 <link rel="manifest" href="/manifest.json" />
                 <meta name="theme-color" content="#000000" />
                 <title>3DE</title>
-                <meta name="description" content="  الاكاديمية للتعليم المستمر ، دورات تعليميه علي اعلي مستوي " />
+                <meta name="description" content="   الاكاديمية للتعليم المستمر ، دورات تعليميه علي اعلي مستوي " />
                 <meta name="author" content="IAFCE" />
                 <meta name="keywords" content="الاكاديمية  للتعليم المستمر" />
                 <meta name="robots" content="index, follow" />
