@@ -1,0 +1,11 @@
+packages:
+  - apps/*
+  - packages/*
+ignoredBuiltDependencies:
+  - '@apollo/protobufjs'
+  - '@nestjs/core'
+  - '@prisma/client'
+  - '@prisma/engines'
+  - '@tailwindcss/oxide'
+  - prisma
+  - unrs-resolver
