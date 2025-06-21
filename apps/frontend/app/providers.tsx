@@ -21,9 +21,9 @@ const theme = createTheme({
     direction: 'rtl',
     palette: {
         primary: {
-            main: '#FBB34C',
-            light: '#FFD699',
-            dark: '#002D32',
+            main: '#fd5201',
+          light: '#FFD699',
+          dark: '#ffe8db',
             contrastText: '#FFFFFF',
         },
         secondary: {

@@ -97,8 +97,8 @@ export default function SignIn() {
                 >
                     <Box sx={{ mb: 3, textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                         <Image
-                            src="/assets/images/logo.png"
-                            alt="IAFCE Logo"
+                            src="/assets/images/Picture5.PNG"
+                            alt="3DE"
                             width={120}
                             height={120}
                             style={{ marginBottom: '1rem', textAlign: 'center' }}
@@ -113,7 +113,7 @@ export default function SignIn() {
                                 textShadow: '1px 1px 2px rgba(0,0,0,0.1)',
                             }}
                         >
-                            IAFCE
+                            3DE
                         </Typography>
                         <Typography
                             variant="subtitle1"
